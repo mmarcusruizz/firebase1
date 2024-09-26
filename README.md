@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # desafio4
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# firebase1
+>>>>>>> 1e85a5762e2187869d116c87228cebd9f74ee8b8
